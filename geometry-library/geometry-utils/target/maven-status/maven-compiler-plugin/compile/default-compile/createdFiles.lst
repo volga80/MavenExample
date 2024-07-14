@@ -1,0 +1,5 @@
+org\example\utils\GeometryUtils.class
+org\example\utils\geometry\Circle.class
+org\example\utils\geometry\GeometricFigure.class
+org\example\utils\geometry\Rectangle.class
+org\example\utils\geometry\Triangle.class
